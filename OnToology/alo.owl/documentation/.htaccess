@@ -45,3 +45,4 @@ RewriteRule ^$ https://ahmad88me.github.io/demo-muli/OnToology/alo.owl/documenta
 # ---------------------------
 # Rewrite rule to serve the RDF/XML content from the vocabulary URI by default
 RewriteRule ^$ https://ahmad88me.github.io/demo-muli/OnToology/alo.owl/documentation/ontology.xml [R=303,L]
+
